@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "$user is part of %n" $(groups)
